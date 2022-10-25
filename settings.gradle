@@ -1,0 +1,7 @@
+rootProject.name = 'SypherEngine'
+include 'core'
+include 'util'
+include 'ecs'
+include 'physics'
+include 'examples'
+
